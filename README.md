@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Mor3t9y
-- 👀 I’m interested in network security/coding 
-- 🌱 I’m currently learning Linux 
-- 💞️ I’m looking to collaborate on I am just learning so I am a newbie 
-- 📫 How to reach me ...
+# - 👋 Hi, I’m @Morty
+# - 👀 I’m interested in network security/coding/white collar hacker
+# - 🌱 I’m currently learning Linux 
+# - 💞️ I am just learning so I am a newbie 
+# - 🤞🏻 I am looking to learn as much as I can
+# - 📫 How to reach me 93morty@gmail.com
 
 <!---
 Mor3t9y/Mor3t9y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
